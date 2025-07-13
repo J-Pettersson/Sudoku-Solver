@@ -9,7 +9,7 @@
  * to terminate the program. User interface takes place through the
  * terminal. The program attempts to solve the specified Sudoku
  * problems using a combination of the elimination method and
- * backtracking. Hence, it should be able to solve legal Sudoku
+ * backtracking. Therefore, it should be able to solve legal Sudoku
  * problems of any difficulty. If there are more than one solution to
  * the specified problem, the program will only present one of these
  * solutions.
