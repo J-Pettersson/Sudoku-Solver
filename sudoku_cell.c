@@ -5,7 +5,7 @@
  */
 
 #include "sudoku_cell.h"
-#include "../DataStructures/LinkedList/linked_list.h"
+#include "linked_list.h"
 #include <stdio.h>
 #include <stdlib.h>
 

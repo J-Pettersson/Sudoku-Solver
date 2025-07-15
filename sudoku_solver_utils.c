@@ -122,7 +122,7 @@ void print_result_func(int board[GRID_SIZE][Y_SIZE][X_SIZE]) {
 /* Prints closing statement before successful program termination.
  */
 void print_final_msg(void) {
-    printf("\nBye bye!\n");
+    printf("\nExiting Program!\n");
 }
 
 /* --------------------- Read Input Functions ---------------------

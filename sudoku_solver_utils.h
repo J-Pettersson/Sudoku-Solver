@@ -9,7 +9,7 @@
 #ifndef SUDOKU_SOLVER_UTILS_H
 #define SUDOKU_SOLVER_UTILS_H
 
-#include "../DataStructures/LinkedList/linked_list.h"
+#include "linked_list.h"
 #include "sudoku_cell.h"
 #include <stdbool.h>
 
