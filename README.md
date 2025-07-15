@@ -14,12 +14,17 @@ solutions.
 
 ## How To Use (on Windows)
 **1. Compile the code**  
-gcc -Wall -std=c99 -o sudoku sudoku_solver.c sudoku_cell.c sudoku_solver_utils.c ../DataStructures/"LinkedList"/linked_list.c
+gcc -Wall -std=c99 -o sudoku sudoku_solver.c sudoku_cell.c sudoku_solver_utils.c linked_list.c
 
 **2. Run the program**  
 sudoku  
   
 **3. Follow the instruction written on the terminal**
+
+## Screenshots
+![Sudoku Solver Start Menu](screenshots/SudokuSolverStart.png)  
+  
+![Sudoku Puzzle Solved](screenshots/SudokuSolverEnd.png)  
 
 ## Future Improvements
 - Additional Constraints
